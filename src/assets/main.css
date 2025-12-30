@@ -5,6 +5,10 @@ body {
   color: #282828;
 }
 
+a {
+  display: block;
+}
+
 .button {
   margin: 30px;
   background-color: #39495c;
@@ -39,7 +43,6 @@ body {
   border: 2px solid #d8d8d8;
   border-radius: 50%;
 }
-
 
 .disabledButton {
   background-color: #d8d8d8;
@@ -89,7 +92,7 @@ li {
 }
 
 .out-of-stock-img {
-  opacity:0.5
+  opacity: 0.5;
 }
 
 p {
